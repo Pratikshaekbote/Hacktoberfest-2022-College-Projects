@@ -1,11 +1,11 @@
+
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
-
-
+<br><br>
 <div align="center">
 <!-- Title: -->
-  <h1><b><a href="https://github.com/ayushete02/Hacktoberfest-2022-College-Projects">FREE COLLEGE PROJECT - HACKTOBERFEST</a></b></h1>
+  <h1><b><a href="https://github.com/ayushete02/Hacktoberfest-2022-College-Projects">FREE COLLEGE PROJECT - HACKTOBERFEST 2022</a></b></h1>
 <!-- Labels: -->
   <!-- First row: -->
   <a href="https://gitpod.io/#https://github.com/ayushete02/Hacktoberfest-2022-College-Projects">
@@ -32,8 +32,8 @@ Read how to make your [First Contributon] before you start.
 ## List of Algorithms
 
 Add your Porject list here
-- First Project~
-- Second Project~
+- 1_flight_booking_java
+- 2_virtual-painter-computer-graphics
 
 <hr><br>
 
