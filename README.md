@@ -9,7 +9,6 @@
 Hacktoberfest is an annual festival hosted by DigitalOcean that takes place in the month of October to celebrate the open source community. As part of this 31-day celebration, contributors and open source maintainers are encouraged to work on open source projects and win swag to mark the occasion.
 
 <hr>
-<br>
 <div align="center">
 <!-- Title: -->
   <h1><b><a href="https://github.com/ayushete02/Hacktoberfest-2022-College-Projects">FREE COLLEGE PROJECT - HACKTOBERFEST 2022</a></b></h1>
@@ -39,13 +38,12 @@ Read how to make your [First Contributon] before you start.
 Add your Porject list here
 - 1_flight_booking_java
 - 2_virtual-painter-computer-graphics
-<br>
-<hr><br>
+
+<hr>
 
 ## Contributors of `Hacktoberfest 2022`
 
 <div align="center">
-
 <a href="https://github.com/ayushete02/Hacktoberfest-2022-College-Projects">
   <img src="https://contrib.rocks/image?repo=ayushete02/Hacktoberfest-2022-College-Projects" />
 </a>
