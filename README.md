@@ -23,7 +23,7 @@
   <h3>All Projects implemented for education</h3>
 </div>
 
-Implementations are for learning purposes only. They may be less efficient than the implementations in the Python standard library. Use them at your discretion.
+We are making this contribution so that our next generation of students can review our projects and make some changes to them so they can submit their assignments on time.
 
 ## Getting Started
 
