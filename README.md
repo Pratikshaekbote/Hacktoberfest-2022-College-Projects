@@ -36,8 +36,8 @@ Read how to make your [First Contributon] before you start.
 ## List of Projects
 
 Add your Porject list here
-- 1_flight_booking_java
-- 2_virtual-painter-computer-graphics
+- [flight_booking_java](flight_booking_java)
+- [virtual-painter-computer-graphics](virtual_painter_computer_graphics)
 
 <hr>
 
