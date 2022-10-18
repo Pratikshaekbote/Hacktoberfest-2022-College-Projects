@@ -1,8 +1,15 @@
 
+#                                             Hacktoberfest2022
+![image](https://user-images.githubusercontent.com/99472914/192144059-5cd0b329-f238-474b-b475-7385eaa35d05.png)
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
-<br><br>
+
+## What is Hacktoberfest?
+Hacktoberfest is an annual festival hosted by DigitalOcean that takes place in the month of October to celebrate the open source community. As part of this 31-day celebration, contributors and open source maintainers are encouraged to work on open source projects and win swag to mark the occasion.
+
+<hr>
+<br>
 <div align="center">
 <!-- Title: -->
   <h1><b><a href="https://github.com/ayushete02/Hacktoberfest-2022-College-Projects">FREE COLLEGE PROJECT - HACKTOBERFEST 2022</a></b></h1>
