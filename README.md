@@ -34,13 +34,24 @@ We are making this contribution so that our next generation of students can revi
 
 Read how to make your [First Contributon] before you start.
 
-## List of Algorithms
+## List of Projects
 
 Add your Porject list here
 - 1_flight_booking_java
 - 2_virtual-painter-computer-graphics
-
+<br>
 <hr><br>
+
+## Contributors of `Hacktoberfest 2022`
+
+<div align="center">
+
+<a href="https://github.com/ayushete02/Hacktoberfest-2022-College-Projects">
+  <img src="https://contrib.rocks/image?repo=ayushete02/Hacktoberfest-2022-College-Projects" />
+</a>
+  
+  </div>
+
 
 # First Contributions
 
