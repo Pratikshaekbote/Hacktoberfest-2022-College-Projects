@@ -158,3 +158,4 @@ You could join our slack team if you need any help or have any questions. [Join 
 <hr>
 
 # Now let's get you started with contributing to projects.
+# [Get Started](Getstart.md)
